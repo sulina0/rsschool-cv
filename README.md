@@ -1,1 +1,1 @@
-# rssshcool
+# rsshcool
